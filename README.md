@@ -38,8 +38,8 @@
 
 ### 📊 Meus projetos em números
 
-- 📂 Repositórios públicos: **20**
-- 💻 Linguagem que mais uso: **Python**
+- 📂 Repositórios públicos: **+25**
+- 💻 Linguagem que mais uso: **PHP**
 - 📅 Programando desde: **2024**
 - 🔥 Foco atual: **PHP e Banco de Dados (PostgreSQL)**
 
